@@ -1,0 +1,5 @@
+Formula student kicad Notes
+
+resistor formula = supply - forward voltage / forward current - values for 12v , 18v Vf, 10mA If, R= 1k
+Diode is there to stop back flow current going into components.
+Without resistor diode burns as current is too much.
